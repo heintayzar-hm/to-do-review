@@ -85,6 +85,8 @@ h1 {
 
 .remove-box:focus {
   outline: none;
+  background-color: black;
+  color: white;
 }
 
 .icon #menu {
